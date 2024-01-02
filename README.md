@@ -3,16 +3,16 @@
 </a></p>
 
 <h3 align="center">
-  The official Symfony Documentation
+  La documentación oficial de Symfony
 </h3>
 
 <p align="center">
   <a href="https://symfony.com/doc/current/index.html">
-    Online version
+    versión en línea
   </a>
   <span> | </span>
   <a href="https://symfony.com/components">
-    Components
+    Componentes
   </a>
   <span> | </span>
   <a href="https://symfonycasts.com">
