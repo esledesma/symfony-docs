@@ -20,11 +20,10 @@
   </a>
 </p>
 
-Contributing
+Contribuyendo
 ------------
 
-We love contributors! For more information on how you can contribute, please read
-the [Symfony Docs Contributing Guide](https://symfony.com/doc/current/contributing/documentation/overview.html).
+¡Nos encantan los contribuyentes! Para obtener más información sobre cómo puede contribuir, por favor lea el [Symfony Docs Contributing Guide](https://symfony.com/doc/current/contributing/documentation/overview.html).
 
 > [!IMPORTANT]
 > Use `5.4` branch as the base of your pull requests, unless you are documenting a
